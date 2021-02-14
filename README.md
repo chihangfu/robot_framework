@@ -39,13 +39,9 @@
 
 16. click File -> open Directory -> load C:\work\robot_framework into RIDE
 
-17. select the test class **Open Google** and click the start
+17. select the test class **Open Google** and click the Run tab at right panel, then click Start
 
-    ![image-20210215001606193](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210215001606193.png)
-
-19. wait the chrome prompt out and will show the message
-
-![image-20210215001739701](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210215001739701.png)
+19. wait the chrome prompt out and will show the message `chrome 目前受到自動測試軟體控制`
 
 
 
